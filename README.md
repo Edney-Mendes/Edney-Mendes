@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--My name is Edney, I'm an Engineer student and a Front-End Developer living in Brasil.
+-My name is Edney, I'm an Engineer student and a Front-End Developer living in Brazil.
 
 
 - 🌱 I’m currently learning React JS, Node JS.
